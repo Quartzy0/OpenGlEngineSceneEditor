@@ -1,0 +1,36 @@
+{
+  "name": "Tester_man",
+  "components": [
+    [
+      {
+        "x": 0.0,
+        "y": 0.0,
+        "angle": 0.0,
+        "__component_type__": "com.quartzy.engine.ecs.components.TransformComponent",
+        "__entity_id__": 24633
+      }
+    ],
+    [
+      {
+        "texture": "stone",
+        "color": "WHITE",
+        "__component_type__": "com.quartzy.engine.ecs.components.TextureComponent",
+        "__entity_id__": 24633
+      }
+    ]
+  ],
+  "layers": [
+    {
+      "layer_id": 0,
+      "layer_array": [
+        24633
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "entity_id": 24633,
+      "tag": "test#1"
+    }
+  ]
+}
